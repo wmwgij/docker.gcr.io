@@ -1,0 +1,1 @@
+FROM docker.io/port/ceph-config-helper:v1.7.5
