@@ -1,0 +1,1 @@
+FROM docker.io/ceph/daemon:tag-build-master-luminous-ubuntu-16.04
