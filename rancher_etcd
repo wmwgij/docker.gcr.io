@@ -1,1 +1,1 @@
-from rancher/etcd:latest
+from rancher/etcd
